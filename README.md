@@ -11,8 +11,8 @@
 
 Depending on your location you may choose to connect to either:
 
-[![Banner Cardano Queries EU](docs/images/BCA-Streams_banner_EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=408656)
-[![Banner Cardano Queries US](docs/images/BCA-Streams_banner_US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=408657)
+[![Banner Cardano Queries EU](docs/images/BCA_Streams_banner_EU.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=408656)
+[![Banner Cardano Queries US](docs/images/BCA_Streams_banner_US.png)](https://github.com/sponsors/Blockchain-Data-Analytics/sponsorships?pay_prorated=true&tier_id=408657)
 
 | location | sponsorship tier | link |
 |----|----|----|
