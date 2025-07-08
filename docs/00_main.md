@@ -19,7 +19,7 @@ by project [BCA ![BCA Blockchain Data Analytics](images/Blockchain-Data-Analytic
 
 ## Signup for this service
 
-Please, get in touch with us at "bca AT sbclab.net" so we can evaluate your needs and discuss different options.
+Please, get in touch with us at "info AT blockchain-applied.com" so we can evaluate your needs and discuss different options.
 
 We cannot provide you with a strict SLA. But, we promise to keep the services alive and fix technical problems asap. We have decent monitoring in place and will be able to react to service disruption.
 
